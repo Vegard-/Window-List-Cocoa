@@ -15,3 +15,9 @@ Mac OS X command line utility to list windows.
 ## Usage
 
     ./WindowList
+
+## Building
+
+Run
+
+    make
